@@ -1,0 +1,18 @@
+#node modules
+/node_modules
+
+#dist
+/dist
+
+#vscode config
+.vscode
+
+#environmets
+.env
+
+
+#images
+*.png
+*.jpg
+*.jpeg
+*.gif
